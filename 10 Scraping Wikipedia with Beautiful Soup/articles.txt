@@ -1,0 +1,452 @@
+^ Hipólito, Inês Viegas (August 9–15, 2015). "Abstract Cognition and the Nature of Mathematical Proof". In Kanzian, Christian; Mitterer, Josef; Neges, Katharina (eds.). Realismus – Relativismus – Konstruktivismus: Beiträge des 38. Internationalen Wittgenstein Symposiums [Realism – Relativism – Constructivism: Contributions of the 38th International Wittgenstein Symposium] (PDF) (in German and English). Vol. 23. Kirchberg am Wechsel, Austria: Austrian Ludwig Wittgenstein Society. pp. 132–134. ISSN 1022-3398. OCLC 236026294. Archived (PDF) from the original on November 7, 2022. Retrieved January 17, 2024. (at ResearchGate  Archived November 5, 2022, at the Wayback Machine)
+
+^ Peterson 1988, p. 12.
+
+^ a b Wigner, Eugene (1960). "The Unreasonable Effectiveness of Mathematics in the Natural Sciences". Communications on Pure and Applied Mathematics. 13 (1): 1–14. Bibcode:1960CPAM...13....1W. doi:10.1002/cpa.3160130102. S2CID 6112252. Archived from the original on February 28, 2011.
+
+^ Wise, David. "Eudoxus' Influence on Euclid's Elements with a close look at The Method of Exhaustion". The University of Georgia. Archived from the original on June 1, 2019. Retrieved January 18, 2024.
+
+^ Alexander, Amir (September 2011). "The Skeleton in the Closet: Should Historians of Science Care about the History of Mathematics?". Isis. 102 (3): 475–480. doi:10.1086/661620. ISSN 0021-1753. MR 2884913. PMID 22073771. S2CID 21629993.
+
+^ a b c d e f Kleiner, Israel (December 1991). "Rigor and Proof in Mathematics: A Historical Perspective". Mathematics Magazine. 64 (5). Taylor & Francis, Ltd.: 291–314. doi:10.1080/0025570X.1991.11977625. eISSN 1930-0980. ISSN 0025-570X. JSTOR 2690647. LCCN 47003192. MR 1141557. OCLC 1756877. S2CID 7787171.
+
+^ a b c d e f g h i j "MSC2020-Mathematics Subject Classification System" (PDF). zbMath. Associate Editors of Mathematical Reviews and zbMATH. Archived (PDF) from the original on January 2, 2024. Retrieved November 13, 2025.
+
+^ a b Dunne, Edward; Hulek, Klaus (March 2020). "Mathematics Subject Classification 2020" (PDF). Notices of the American Mathematical Society. 67 (3): 410–411. doi:10.1090/noti2052. eISSN 1088-9477. ISSN 0002-9920. LCCN sf77000404. OCLC 1480366. Archived (PDF) from the original on August 3, 2021. Retrieved February 3, 2024. The new MSC contains 63 two-digit classifications, 529 three-digit classifications, and 6,006 five-digit classifications.
+
+^ Bell, E. T. (1992) [1945]. "General Prospectus". The Development of Mathematics (2nd ed.). Dover Publications. p. 3. ISBN 978-0-486-27239-9. LCCN 45010599. OCLC 523284. ... mathematics has come down to the present by the two main streams of number and form. The first carried along arithmetic and algebra, the second, geometry.
+
+^ Tiwari, Sarju (1992). "A Mirror of Civilization". Mathematics in History, Culture, Philosophy, and Science (1st ed.). New Delhi, India: Mittal Publications. p. 27. ISBN 978-81-7099-404-6. LCCN 92909575. OCLC 28115124. Retrieved November 13, 2025. It is unfortunate that two curses of mathematics--Numerology and Astrology were also born with it and have been more acceptable to the masses than mathematics itself.
+
+^ Restivo, Sal (1992). "Mathematics from the Ground Up". In Bunge, Mario (ed.). Mathematics in Society and History. Episteme. Vol. 20. Kluwer Academic Publishers. p. 14. ISBN 0-7923-1765-3. LCCN 25709270. OCLC 92013695.
+
+^ Musielak, Dora (2022). Leonhard Euler and the Foundations of Celestial Mechanics. History of Physics. Springer International Publishing. doi:10.1007/978-3-031-12322-1. eISSN 2730-7557. ISBN 978-3-031-12321-4. ISSN 2730-7549. OCLC 1332780664. S2CID 253240718.
+
+^ Biggs, N. L. (May 1979). "The roots of combinatorics". Historia Mathematica. 6 (2): 109–136. doi:10.1016/0315-0860(79)90074-0. eISSN 1090-249X. ISSN 0315-0860. LCCN 75642280. OCLC 2240703.
+
+^ a b Warner, Evan. "Splash Talk: The Foundational Crisis of Mathematics" (PDF). Columbia University. Archived from the original (PDF) on March 22, 2023. Retrieved February 3, 2024.
+
+^ LeVeque, William J. (1977). "Introduction". Fundamentals of Number Theory. Addison-Wesley Publishing Company. pp. 1–30. ISBN 0-201-04287-8. LCCN 76055645. OCLC 3519779. S2CID 118560854.
+
+^ Goldman, Jay R. (1998). "The Founding Fathers". The Queen of Mathematics: A Historically Motivated Guide to Number Theory. Wellesley, MA: A K Peters. pp. 2–3. doi:10.1201/9781439864623. ISBN 1-56881-006-7. LCCN 94020017. OCLC 30437959. S2CID 118934517.
+
+^ Weil, André (1983). Number Theory: An Approach Through History From Hammurapi to Legendre. Birkhäuser Boston. pp. 2–3. doi:10.1007/978-0-8176-4571-7. ISBN 0-8176-3141-0. LCCN 83011857. OCLC 9576587. S2CID 117789303.
+
+^ Kleiner, Israel (March 2000). "From Fermat to Wiles: Fermat's Last Theorem Becomes a Theorem". Elemente der Mathematik. 55 (1): 19–37. doi:10.1007/PL00000079. eISSN 1420-8962. ISSN 0013-6018. LCCN 66083524. OCLC 1567783. S2CID 53319514.
+
+^ Wang, Yuan (2002). The Goldbach Conjecture. Series in Pure Mathematics. Vol. 4 (2nd ed.). World Scientific. pp. 1–18. doi:10.1142/5096. ISBN 981-238-159-7. LCCN 2003268597. OCLC 51533750. S2CID 14555830.
+
+^ a b c Straume, Eldar (September 4, 2014). "A Survey of the Development of Geometry up to 1870". arXiv:1409.1140 [math.HO].
+
+^ Hilbert, David (1902). The Foundations of Geometry. Open Court Publishing Company. p. 1. doi:10.1126/science.16.399.307. LCCN 02019303. OCLC 996838. S2CID 238499430. Retrieved February 6, 2024. 
+
+^ Hartshorne, Robin (2000). "Euclid's Geometry". Geometry: Euclid and Beyond. Springer New York. pp. 9–13. ISBN 0-387-98650-2. LCCN 99044789. OCLC 42290188. Retrieved February 7, 2024.
+
+^ Boyer, Carl B. (2004) [1956]. "Fermat and Descartes". History of Analytic Geometry. Dover Publications. pp. 74–102. ISBN 0-486-43832-5. LCCN 2004056235. OCLC 56317813.
+
+^ Stump, David J. (1997). "Reconstructing the Unity of Mathematics circa 1900" (PDF). Perspectives on Science. 5 (3): 383–417. doi:10.1162/posc_a_00532. eISSN 1530-9274. ISSN 1063-6145. LCCN 94657506. OCLC 26085129. S2CID 117709681. Archived (PDF) from the original on February 8, 2024. Retrieved February 8, 2024.
+
+^ O'Connor, J. J.; Robertson, E. F. (February 1996). "Non-Euclidean geometry". MacTuror. Scotland, UK: University of St. Andrews. Archived from the original on November 6, 2022. Retrieved February 8, 2024.
+
+^ Joyner, David (2008). "The (legal) Rubik's Cube group". Adventures in Group Theory: Rubik's Cube, Merlin's Machine, and Other Mathematical Toys (2nd ed.). Johns Hopkins University Press. pp. 219–232. ISBN 978-0-8018-9012-3. LCCN 2008011322. OCLC 213765703.
+
+^ Christianidis, Jean; Oaks, Jeffrey (May 2013). "Practicing algebra in late antiquity: The problem-solving of Diophantus of Alexandria". Historia Mathematica. 40 (2): 127–163. doi:10.1016/j.hm.2012.09.001. eISSN 1090-249X. ISSN 0315-0860. LCCN 75642280. OCLC 2240703. S2CID 121346342.
+
+^ Kleiner 2007, "History of Classical Algebra" pp. 3–5.
+
+^ Shane, David (2022). "Figurate Numbers: A Historical Survey of an Ancient Mathematics" (PDF). Methodist University. p. 20. Archived (PDF) from the original on June 5, 2024. Retrieved June 13, 2024. In his work, Diophantus focused on deducing the arithmetic properties of figurate numbers, such as deducing the number of sides, the different ways a number can be expressed as a figurate number, and the formulation of the arithmetic progressions.
+
+^ Overbay, Shawn; Schorer, Jimmy; Conger, Heather. "Al-Khwarizmi". University of Kentucky. Archived from the original on June 29, 2024. Retrieved June 13, 2024.
+
+^ Lim, Lisa (December 21, 2018). "Where the x we use in algebra came from, and the X in Xmas". South China Morning Post. Archived from the original on December 22, 2018. Retrieved February 8, 2024.
+
+^ Berntjes, Sonja. "Algebra". Encyclopaedia of Islam Online (3rd ed.). ISSN 1573-3912. LCCN 2007238847. OCLC 56713464. Archived from the original on January 12, 2025. Retrieved June 13, 2024.
+
+^ Oaks, Jeffery A. (2018). "François Viète's revolution in algebra" (PDF). Archive for History of Exact Sciences. 72 (3): 245–302. doi:10.1007/s00407-018-0208-0. eISSN 1432-0657. ISSN 0003-9519. LCCN 63024699. OCLC 1482042. S2CID 125704699. Archived (PDF) from the original on November 8, 2022. Retrieved February 8, 2024.
+
+^ "Variable in Maths". GeeksforGeeks. April 24, 2024. Archived from the original on June 1, 2024. Retrieved June 13, 2024.
+
+^ Kleiner 2007, "History of Linear Algebra" pp. 79–101.
+
+^ Corry, Leo (2004). "Emmy Noether: Ideals and Structures". Modern Algebra and the Rise of Mathematical Structures (2nd revised ed.). Germany: Birkhäuser Basel. pp. 247–252. ISBN 3-7643-7002-5. LCCN 2004556211. OCLC 51234417. Retrieved February 8, 2024.
+
+^ Riche, Jacques (2007). "From Universal Algebra to Universal Logic". In Beziau, J. Y.; Costa-Leite, Alexandre (eds.). Perspectives on Universal Logic. Milano, Italy: Polimetrica International Scientific Publisher. pp. 3–39. ISBN 978-88-7699-077-9. OCLC 647049731. Retrieved February 8, 2024.
+
+^ Krömer, Ralph (2007). Tool and Object: A History and Philosophy of Category Theory. Science Networks – Historical Studies. Vol. 32. Germany: Springer Science & Business Media. pp. xxi–xxv, 1–91. ISBN 978-3-7643-7523-2. LCCN 2007920230. OCLC 85242858. Retrieved February 8, 2024.
+
+^ Guicciardini, Niccolo (2017). "The Newton–Leibniz Calculus Controversy, 1708–1730" (PDF). In Schliesser, Eric; Smeenk, Chris (eds.). The Oxford Handbook of Newton. Oxford Handbooks. Oxford University Press. doi:10.1093/oxfordhb/9780199930418.013.9. ISBN 978-0-19-993041-8. OCLC 975829354. Archived (PDF) from the original on November 9, 2022. Retrieved February 9, 2024.
+
+^ O'Connor, J. J.; Robertson, E. F. (September 1998). "Leonhard Euler". MacTutor. Scotland, UK: University of St Andrews. Archived from the original on November 9, 2022. Retrieved February 9, 2024.
+
+^ "Calculus (Differential and Integral Calculus with Examples)". Byju's. Retrieved June 13, 2024.
+
+^ Franklin, James (July 2017). "Discrete and Continuous: A Fundamental Dichotomy in Mathematics". Journal of Humanistic Mathematics. 7 (2): 355–378. doi:10.5642/jhummath.201702.18. hdl:1959.4/unsworks_53212. ISSN 2159-8118. LCCN 2011202231. OCLC 700943261. S2CID 6945363. Archived from the original on March 10, 2024. Retrieved February 9, 2024.
+
+^ Maurer, Stephen B. (1997). "What is Discrete Mathematics? The Many Answers". In Rosenstein, Joseph G.; Franzblau, Deborah S.; Roberts, Fred S. (eds.). Discrete Mathematics in the Schools. DIMACS: Series in Discrete Mathematics and Theoretical Computer Science. Vol. 36. American Mathematical Society. pp. 121–124. doi:10.1090/dimacs/036/13. ISBN 0-8218-0448-0. ISSN 1052-1798. LCCN 97023277. OCLC 37141146. S2CID 67358543. Retrieved February 9, 2024.
+
+^ Hales, Thomas C. (2014). "Turing's Legacy: Developments from Turing's Ideas in Logic". In Downey, Rod (ed.). Turing's Legacy. Lecture Notes in Logic. Vol. 42. Cambridge University Press. pp. 260–261. doi:10.1017/CBO9781107338579.001. ISBN 978-1-107-04348-0. LCCN 2014000240. OCLC 867717052. S2CID 19315498. Retrieved February 9, 2024.
+
+^ Sipser, Michael (July 1992). The History and Status of the P versus NP Question. STOC '92: Proceedings of the twenty-fourth annual ACM symposium on Theory of Computing. pp. 603–618. doi:10.1145/129712.129771. ISBN 978-0-89791-511-3. OCLC 51349974. S2CID 11678884.
+
+^ Ewald, William (November 17, 2018). "The Emergence of First-Order Logic". Stanford Encyclopedia of Philosophy. ISSN 1095-5054. LCCN sn97004494. OCLC 37550526. Retrieved June 14, 2024.
+
+^ Ferreirós, José (June 18, 2020) [First published April 10, 2007]. "The Early Development of Set Theory". Stanford Encyclopedia of Philosophy. ISSN 1095-5054. LCCN sn97004494. OCLC 37550526. Archived from the original on May 12, 2021. Retrieved June 14, 2024.
+
+^ Ferreirós, José (December 2001). "The Road to Modern Logic—An Interpretation" (PDF). The Bulletin of Symbolic Logic. 7 (4): 441–484. doi:10.2307/2687794. eISSN 1943-5894. hdl:11441/38373. ISSN 1079-8986. JSTOR 2687794. LCCN 95652899. OCLC 31616719. S2CID 43258676. Archived from the original (PDF) on February 2, 2023. Retrieved June 14, 2024.
+
+^ Wolchover, Natalie, ed. (November 26, 2013). "Dispute over Infinity Divides Mathematicians". Quanta Magazine. Retrieved June 14, 2024.
+
+^ Zhuang, Chaohui. "Wittgenstein's analysis on Cantor's diagonal argument" (DOC). PhilArchive. Retrieved June 14, 2024.
+
+^ Tanswell, Fenner Stanley (2024). Mathematical Rigour and Informal Proof. Cambridge Elements in the Philosophy of Mathematics. Cambridge University Press. doi:10.1017/9781009325110. eISSN 2399-2883. ISBN 978-1-00-949438-0. ISSN 2514-3808. OCLC 1418750041.
+
+^ Avigad, Jeremy; Reck, Erich H. (December 11, 2001). ""Clarifying the nature of the infinite": the development of metamathematics and proof theory" (PDF). Carnegie Mellon University. Archived (PDF) from the original on October 9, 2022. Retrieved November 13, 2025.
+
+^ Hamilton, Alan G. (1982). "Numbers". Numbers, Sets and Axioms: The Apparatus of Mathematics. Cambridge University Press. pp. 3–4. ISBN 978-0-521-28761-6. LCCN 82004206. OCLC 8283672. Retrieved November 13, 2025.
+
+^ Snapper, Ernst (September 1979). "The Three Crises in Mathematics: Logicism, Intuitionism, and Formalism". Mathematics Magazine. 52 (4): 207–216. doi:10.2307/2689412. eISSN 0025-570X. ISSN 1930-0980. JSTOR 2689412.
+
+^ a b Raatikainen, Panu (October 2005). "On the Philosophical Relevance of Gödel's Incompleteness Theorems". Revue Internationale de Philosophie. 59 (4): 513–534. doi:10.3917/rip.234.0513. ISBN 9789077723197. JSTOR 23955909. OCLC 224673792. S2CID 52083793.
+
+^ Moschovakis, Joan (September 4, 2018). "Intuitionistic Logic". Stanford Encyclopedia of Philosophy. Archived from the original on December 16, 2022. Retrieved November 13, 2025.
+
+^ McCarty, Charles (2006). "At the Heart of Analysis: Intuitionism and Philosophy". In Heinzmann, Gerhard; Ronzitti, Giuseppina (eds.). Constructivism: Mathematics, Logic, Philosophy and Linguistics. pp. 81–94. doi:10.4000/philosophiascientiae.411. eISSN 1775-4283. ISBN 2-84174-399-3. OCLC 71798942. {{cite book}}: |journal= ignored (help)
+
+^ Halpern, Joseph; Harper, Robert; Immerman, Neil; Kolaitis, Phokion; Vardi, Moshe; Vianu, Victor (January 2001). "On the Unusual Effectiveness of Logic in Computer Science" (PDF). Carnegie Mellon University. Archived (PDF) from the original on March 3, 2021. Retrieved November 13, 2025.
+
+^ Rouaud, Mathieu (April 2017) [First published July 2013]. Probability, Statistics and Estimation (PDF). p. 10. Archived (PDF) from the original on October 9, 2022. Retrieved February 13, 2024.
+
+^ Rao, C. Radhakrishna (1997) [1989]. Statistics and Truth: Putting Chance to Work (2nd ed.). World Scientific. pp. 3–17, 63–70. ISBN 981-02-3111-3. LCCN 97010349. MR 1474730. OCLC 36597731.
+
+^ Rao, C. Radhakrishna (1981). "Foreword". In Arthanari, T.S.; Dodge, Yadolah (eds.). Mathematical programming in statistics. Wiley Series in Probability and Mathematical Statistics. New York: Wiley. pp. vii–viii. ISBN 978-0-471-08073-2. LCCN 80021637. MR 0607328. OCLC 6707805.
+
+^ Whittle 1994, pp. 10–11, 14–18.
+
+^ Marchuk, Gurii Ivanovich (April 2020). "G I Marchuk's plenary: ICM 1970". MacTutor. School of Mathematics and Statistics, University of St Andrews, Scotland. Archived from the original on November 13, 2022. Retrieved November 13, 2022.
+
+^ Johnson, Gary M.; Cavallini, John S. (September 1991). Phua, Kang Hoh; Loe, Kia Fock (eds.). Grand Challenges, High Performance Computing, and Computational Science. Singapore Supercomputing Conference'90: Supercomputing For Strategic Advantage. World Scientific. p. 28. LCCN 91018998. Retrieved November 13, 2022.
+
+^ Trefethen, Lloyd N. (2008). "Numerical Analysis". In Gowers, Timothy; Barrow-Green, June; Leader, Imre (eds.). The Princeton Companion to Mathematics (PDF). Princeton University Press. pp. 604–615. ISBN 978-0-691-11880-2. LCCN 2008020450. MR 2467561. OCLC 227205932. Archived (PDF) from the original on March 7, 2023. Retrieved February 15, 2024.
+
+^ Cresswell 2021, § MathematicsPerisho 1965, p. 64
+
+^ Perisho, Margaret W. (Spring 1965). "The Etymology of Mathematical Terms". Pi Mu Epsilon Journal. 4 (2): 62–66. ISSN 0031-952X. JSTOR 24338341. LCCN 58015848. OCLC 1762376.
+
+^ Boas, Ralph P. (1995). "What Augustine Didn't Say About Mathematicians". In Alexanderson, Gerald L.; Mugler, Dale H. (eds.). Lion Hunting and Other Mathematical Pursuits: A Collection of Mathematics, Verse, and Stories. Mathematical Association of America. p. 257. ISBN 978-0-88385-323-8. LCCN 94078313. OCLC 633018890.
+
+^ The Oxford Dictionary of English Etymology, Oxford English Dictionary, sub "mathematics", "mathematic", "mathematics".
+
+^ "Maths (Noun)". Oxford English Dictionary. Oxford University Press. Archived from the original on January 25, 2024. Retrieved January 25, 2024.
+
+^ "Math (Noun³)". Oxford English Dictionary. Oxford University Press. Archived from the original on April 4, 2020. Retrieved January 25, 2024.
+
+^ See, for example, Wilder, Raymond L. Evolution of Mathematical Concepts; an Elementary Study. passim.
+
+^ Zaslavsky, Claudia (1999). Africa Counts: Number and Pattern in African Culture. Chicago Review Press. ISBN 978-1-61374-115-3. OCLC 843204342.
+
+^ Kline 1990, Chapter 1.
+
+^ Mesopotamia[dead link] pg 10. Retrieved June 1, 2024
+
+^ Boyer 1991, "Mesopotamia" pp. 24–27.
+
+^ Heath, Thomas Little (1981) [1921]. A History of Greek Mathematics: From Thales to Euclid. New York: Dover Publications. p. 1. ISBN 978-0-486-24073-2.
+
+^ Mueller, I. (1969). "Euclid's Elements and the Axiomatic Method". The British Journal for the Philosophy of Science. 20 (4): 289–309. doi:10.1093/bjps/20.4.289. ISSN 0007-0882. JSTOR 686258.
+
+^ Boyer 1991, "Euclid of Alexandria" p. 119.
+
+^ Boyer 1991, "Archimedes of Syracuse" p. 120.
+
+^ Boyer 1991, "Archimedes of Syracuse" p. 130.
+
+^ Boyer 1991, "Apollonius of Perga" p. 145.
+
+^ Boyer 1991, "Greek Trigonometry and Mensuration" p. 162.
+
+^ Boyer 1991, "Revival and Decline of Greek Mathematics" p. 180.
+
+^ Ore, Øystein (1988). Number Theory and Its History. Courier Corporation. pp. 19–24. ISBN 978-0-486-65620-5. Retrieved November 14, 2022.
+
+^ Singh, A. N. (January 1936). "On the Use of Series in Hindu Mathematics". Osiris. 1: 606–628. doi:10.1086/368443. JSTOR 301627. S2CID 144760421.
+
+^ Kolachana, A.; Mahesh, K.; Ramasubramanian, K. (2019). "Use of series in India". Studies in Indian Mathematics and Astronomy. Sources and Studies in the History of Mathematics and Physical Sciences. Singapore: Springer. pp. 438–461. doi:10.1007/978-981-13-7326-8_20. ISBN 978-981-13-7325-1. S2CID 190176726.
+
+^ Saliba, George (1994). A history of Arabic astronomy: planetary theories during the golden age of Islam. New York University Press. ISBN 978-0-8147-7962-0. OCLC 28723059.
+
+^ Faruqi, Yasmeen M. (2006). "Contributions of Islamic scholars to the scientific enterprise". International Education Journal. 7 (4). Shannon Research Press: 391–399. Archived from the original on November 14, 2022. Retrieved November 14, 2022.
+
+^ Lorch, Richard (June 2001). "Greek-Arabic-Latin: The Transmission of Mathematical Texts in the Middle Ages" (PDF). Science in Context. 14 (1–2). Cambridge University Press: 313–331. doi:10.1017/S0269889701000114. S2CID 146539132. Archived (PDF) from the original on December 17, 2022. Retrieved December 5, 2022.
+
+^ Kent, Benjamin (2022). History of Science (PDF). Vol. 2. Bibliotex Digital Library. ISBN 978-1-984668-67-7. Archived (PDF) from the original on June 16, 2024. Retrieved June 16, 2024.
+
+^ Archibald, Raymond Clare (January 1949). "History of Mathematics After the Sixteenth Century". The American Mathematical Monthly. Part 2: Outline of the History of Mathematics. 56 (1): 35–56. doi:10.2307/2304570. JSTOR 2304570.
+
+^ Sevryuk 2006, pp. 101–109.
+
+^ Wolfram, Stephan (October 2000). Mathematical Notation: Past and Future. MathML and Math on the Web: MathML International Conference 2000, Urbana Champaign, USA. Archived from the original on November 16, 2022. Retrieved February 3, 2024.
+
+^ Douglas, Heather; Headley, Marcia Gail; Hadden, Stephanie; LeFevre, Jo-Anne (December 3, 2020). "Knowledge of Mathematical Symbols Goes Beyond Numbers". Journal of Numerical Cognition. 6 (3): 322–354. doi:10.5964/jnc.v6i3.293. eISSN 2363-8761. S2CID 228085700.
+
+^ Letourneau, Mary; Wright Sharp, Jennifer (October 2017). "AMS Style Guide" (PDF). American Mathematical Society. p. 75. Archived (PDF) from the original on December 8, 2022. Retrieved February 3, 2024.
+
+^ Jansen, Anthony R.; Marriott, Kim; Yelland, Greg W. (2000). "Constituent Structure in Mathematical Expressions" (PDF). Proceedings of the Annual Meeting of the Cognitive Science Society. 22. University of California Merced. eISSN 1069-7977. OCLC 68713073. Archived (PDF) from the original on November 16, 2022. Retrieved February 3, 2024.
+
+^ Rossi, Richard J. (2006). Theorems, Corollaries, Lemmas, and Methods of Proof. Pure and Applied Mathematics: A Wiley Series of Texts, Monographs and Tracts. John Wiley & Sons. pp. 1–14, 47–48. ISBN 978-0-470-04295-3. LCCN 2006041609. OCLC 64085024.
+
+^ "Earliest Uses of Some Words of Mathematics". MacTutor. Scotland, UK: University of St. Andrews. Archived from the original on September 29, 2022. Retrieved February 3, 2024.
+
+^ Silver, Daniel S. (November–December 2017). "The New Language of Mathematics". The American Scientist. 105 (6). Sigma Xi: 364–371. doi:10.1511/2017.105.6.364. ISSN 0003-0996. LCCN 43020253. OCLC 1480717. S2CID 125455764.
+
+^ Bellomo, Nicola; Preziosi, Luigi (December 22, 1994). Modelling Mathematical Methods and Scientific Computation. Mathematical Modeling. Vol. 1. CRC Press. p. 1. ISBN 978-0-8493-8331-1. Retrieved November 16, 2022.
+
+^ Hennig, Christian (2010). "Mathematical Models and Reality: A Constructivist Perspective". Foundations of Science. 15: 29–48. doi:10.1007/s10699-009-9167-x. S2CID 6229200. Retrieved November 17, 2022.
+
+^ Frigg, Roman; Hartmann, Stephan (February 4, 2020). "Models in Science". Stanford Encyclopedia of Philosophy. Archived from the original on November 17, 2022. Retrieved November 17, 2022.
+
+^ Stewart, Ian (2018). "Mathematics, Maps, and Models". In Wuppuluri, Shyam; Doria, Francisco Antonio (eds.). The Map and the Territory: Exploring the Foundations of Science, Thought and Reality. The Frontiers Collection. Springer. pp. 345–356. doi:10.1007/978-3-319-72478-2_18. ISBN 978-3-319-72478-2. Retrieved November 17, 2022.
+
+^ "The science checklist applied: Mathematics". Understanding Science. University of California, Berkeley. Archived from the original on October 27, 2019. Retrieved October 27, 2019.
+
+^ Mackay, A. L. (1991). Dictionary of Scientific Quotations. London: Taylor & Francis. p. 100. ISBN 978-0-7503-0106-0. Retrieved March 19, 2023.
+
+^ Bishop, Alan (1991). "Environmental activities and mathematical culture". Mathematical Enculturation: A Cultural Perspective on Mathematics Education. Norwell, Massachusetts: Kluwer Academic Publishers. pp. 20–59. ISBN 978-0-7923-1270-3. Retrieved April 5, 2020.
+
+^ Shasha, Dennis Elliot; Lazere, Cathy A. (1998). Out of Their Minds: The Lives and Discoveries of 15 Great Computer Scientists. Springer. p. 228. ISBN 978-0-387-98269-4.
+
+^ Nickles, Thomas (2013). "The Problem of Demarcation". Philosophy of Pseudoscience: Reconsidering the Demarcation Problem. Chicago: The University of Chicago Press. p. 104. ISBN 978-0-226-05182-6.
+
+^ Pigliucci, Massimo (2014). "Are There 'Other' Ways of Knowing?". Philosophy Now. Archived from the original on May 13, 2020. Retrieved April 6, 2020.
+
+^ a b Ferreirós, J. (2007). "Ό Θεὸς Άριθμητίζει: The Rise of Pure Mathematics as Arithmetic with Gauss". In Goldstein, Catherine; Schappacher, Norbert; Schwermer, Joachim (eds.). The Shaping of Arithmetic after C.F. Gauss's Disquisitiones Arithmeticae. Springer Science & Business Media. pp. 235–268. ISBN 978-3-540-34720-0.
+
+^ Kuhn, Thomas S. (1976). "Mathematical vs. Experimental Traditions in the Development of Physical Science". The Journal of Interdisciplinary History. 7 (1). The MIT Press: 1–31. doi:10.2307/202372. JSTOR 202372.
+
+^ Asper, Markus (2009). "The two cultures of mathematics in ancient Greece". In Robson, Eleanor; Stedall, Jacqueline (eds.). The Oxford Handbook of the History of Mathematics. Oxford Handbooks in Mathematics. OUP Oxford. pp. 107–132. ISBN 978-0-19-921312-2. Retrieved November 18, 2022.
+
+^ Gozwami, Pinkimani; Singh, Madan Mohan (2019). "Integer Factorization Problem". In Ahmad, Khaleel; Doja, M. N.; Udzir, Nur Izura; Singh, Manu Pratap (eds.). Emerging Security Algorithms and Techniques. CRC Press. pp. 59–60. ISBN 978-0-8153-6145-9. LCCN 2019010556. OCLC 1082226900.
+
+^ Maddy, P. (2008). "How applied mathematics became pure" (PDF). The Review of Symbolic Logic. 1 (1): 16–41. doi:10.1017/S1755020308080027. S2CID 18122406. Archived (PDF) from the original on August 12, 2017. Retrieved November 19, 2022.
+
+^ Silver, Daniel S. (2017). "In Defense of Pure Mathematics". In Pitici, Mircea (ed.). The Best Writing on Mathematics, 2016. Princeton University Press. pp. 17–26. ISBN 978-0-691-17529-4. Retrieved November 19, 2022.
+
+^ Parshall, Karen Hunger (2022). "The American Mathematical Society and Applied Mathematics from the 1920s to the 1950s: A Revisionist Account". Bulletin of the American Mathematical Society. 59 (3): 405–427. doi:10.1090/bull/1754. S2CID 249561106. Archived from the original on November 20, 2022. Retrieved November 20, 2022.
+
+^ Stolz, Michael (2002). "The History Of Applied Mathematics And The History Of Society". Synthese. 133 (1–2): 43–57. doi:10.1023/A:1020823608217. S2CID 34271623. Retrieved November 20, 2022.
+
+^ Lin, C. C . (March 1976). "On the role of applied mathematics". Advances in Mathematics. 19 (3): 267–288. doi:10.1016/0001-8708(76)90024-4.
+
+^ Peressini, Anthony (September 1999). Applying Pure Mathematics (PDF). Philosophy of Science. Proceedings of the 1998 Biennial Meetings of the Philosophy of Science Association. Part I: Contributed Papers. Vol. 66. pp. S1 – S13. JSTOR 188757. Archived (PDF) from the original on January 2, 2024. Retrieved November 30, 2022.
+
+^ Lützen, J. (2011). "Examples and reflections on the interplay between mathematics and physics in the 19th and 20th century". In Schlote, K. H.; Schneider, M. (eds.). Mathematics meets physics: A contribution to their interaction in the 19th and the first half of the 20th century. Frankfurt am Main: Verlag Harri Deutsch. Archived from the original on March 23, 2023. Retrieved November 19, 2022.
+
+^ Marker, Dave (July 1996). "Model theory and exponentiation". Notices of the American Mathematical Society. 43 (7): 753–759. Archived from the original on March 13, 2014. Retrieved November 19, 2022.
+
+^ Chen, Changbo; Maza, Marc Moreno (August 2014). Cylindrical Algebraic Decomposition in the RegularChains Library. International Congress on Mathematical Software 2014. Lecture Notes in Computer Science. Vol. 8592. Berlin: Springer. doi:10.1007/978-3-662-44199-2_65. Retrieved November 19, 2022.
+
+^ Pérez-Escobar, José Antonio; Sarikaya, Deniz (2021). "Purifying applied mathematics and applying pure mathematics: how a late Wittgensteinian perspective sheds light onto the dichotomy". European Journal for Philosophy of Science. 12 (1): 1–22. doi:10.1007/s13194-021-00435-9. S2CID 245465895.
+
+^ Takase, M. (2014). "Pure Mathematics and Applied Mathematics are Inseparably Intertwined: Observation of the Early Analysis of the Infinity". A Mathematical Approach to Research Problems of Science and Technology. Mathematics for Industry. Vol. 5. Tokyo: Springer. pp. 393–399. doi:10.1007/978-4-431-55060-0_29. ISBN 978-4-431-55059-4. Retrieved November 20, 2022.
+
+^ Sarukkai, Sundar (February 10, 2005). "Revisiting the 'unreasonable effectiveness' of mathematics". Current Science. 88 (3): 415–423. JSTOR 24110208.
+
+^ Wagstaff, Samuel S. Jr. (2021). "History of Integer Factoring" (PDF). In Bos, Joppe W.; Stam, Martijn (eds.). Computational Cryptography, Algorithmic Aspects of Cryptography, A Tribute to AKL. London Mathematical Society Lecture Notes Series 469. Cambridge University Press. pp. 41–77. Archived (PDF) from the original on November 20, 2022. Retrieved November 20, 2022.
+
+^ "Curves: Ellipse". MacTutor. School of Mathematics and Statistics, University of St Andrews, Scotland. Archived from the original on October 14, 2022. Retrieved November 20, 2022.
+
+^ Mukunth, Vasudevan (September 10, 2015). "Beyond the Surface of Einstein's Relativity Lay a Chimerical Geometry". The Wire. Archived from the original on November 20, 2022. Retrieved November 20, 2022.
+
+^ Wilson, Edwin B.; Lewis, Gilbert N. (November 1912). "The Space-Time Manifold of Relativity. The Non-Euclidean Geometry of Mechanics and Electromagnetics". Proceedings of the American Academy of Arts and Sciences. 48 (11): 389–507. doi:10.2307/20022840. JSTOR 20022840.
+
+^ a b c Borel, Armand (1983). "Mathematics: Art and Science". The Mathematical Intelligencer. 5 (4). Springer: 9–17. doi:10.4171/news/103/8. ISSN 1027-488X.
+
+^ Hanson, Norwood Russell (November 1961). "Discovering the Positron (I)". The British Journal for the Philosophy of Science. 12 (47). The University of Chicago Press: 194–214. doi:10.1093/bjps/xiii.49.54. JSTOR 685207.
+
+^ Ginammi, Michele (February 2016). "Avoiding reification: Heuristic effectiveness of mathematics and the prediction of the Ω– particle". Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics. 53: 20–27. Bibcode:2016SHPMP..53...20G. doi:10.1016/j.shpsb.2015.12.001.
+
+^ Wagh, Sanjay Moreshwar; Deshpande, Dilip Abasaheb (September 27, 2012). Essentials of Physics. PHI Learning Pvt. Ltd. p. 3. ISBN 978-81-203-4642-0. Retrieved January 3, 2023.
+
+^ Atiyah, Michael (1990). On the Work of Edward Witten (PDF). Proceedings of the International Congress of Mathematicians. p. 31. Archived from the original (PDF) on September 28, 2013. Retrieved December 29, 2022.
+
+^ "Course 18C Mathematics with Computer Science". math.mit.edu. Retrieved June 1, 2024.
+
+^ "Theoretical Computer Science". math.mit.edu. Retrieved June 1, 2024.
+
+^ "Real-Life Applications of Discrete Mathematics". GeeksforGeeks. April 8, 2024. Archived from the original on May 19, 2024. Retrieved May 19, 2024.
+
+^ Hales, Thomas; Adams, Mark; Bauer, Gertrud; Dang, Tat Dat; Harrison, John; Hoang, Le Truong; Kaliszyk, Cezary; Magron, Victor; Mclaughlin, Sean; Nguyen, Tat Thang; Nguyen, Quang Truong; Nipkow, Tobias; Obua, Steven; Pleso, Joseph; Rute, Jason; Solovyev, Alexey; Ta, Thi Hoai An; Tran, Nam Trung; Trieu, Thi Diep; Urban, Josef; Vu, Ky; Zumkeller, Roland (2017). "A Formal Proof of the Kepler Conjecture". Forum of Mathematics, Pi. 5 e2. doi:10.1017/fmp.2017.1. hdl:2066/176365. ISSN 2050-5086. S2CID 216912822. Archived from the original on December 4, 2020. Retrieved February 25, 2023.
+
+^ a b c Millstein, Roberta (September 8, 2016). "Probability in Biology: The Case of Fitness" (PDF). In Hájek, Alan; Hitchcock, Christopher (eds.). The Oxford Handbook of Probability and Philosophy. pp. 601–622. doi:10.1093/oxfordhb/9780199607617.013.27. Archived (PDF) from the original on March 7, 2023. Retrieved December 29, 2022.
+
+^ See for example Anne Laurent, Roland Gamet, Jérôme Pantel, Tendances nouvelles en modélisation pour l'environnement, actes du congrès «Programme environnement, vie et sociétés» 15–17 janvier 1996, CNRS
+
+^ Bouleau 1999, pp. 282–283.
+
+^ Bouleau 1999, p. 285.
+
+^ "1.4: The Lotka-Volterra Predator-Prey Model". Mathematics LibreTexts. January 5, 2022. Archived from the original on December 29, 2022. Retrieved December 29, 2022.
+
+^ Salsburg, David (August 17, 1992). "Commentary" (PDF). The Use of Statistical Methods in the Analysis of Clinical Studies. 46: 17. Archived (PDF) from the original on June 1, 2024. Retrieved June 1, 2024.
+
+^ National Research Council (2003). "8". Beyond the Molecular Frontier: Challenges for Chemistry and Chemical Engineering. NAP.edu. pp. 71–73. Bibcode:2003nap..book10633N. doi:10.17226/10633. ISBN 978-0-309-16839-7. PMID 25032300.
+
+^ "Catastrophe Models (Property)". content.naic.org. Archived from the original on May 19, 2024. Retrieved May 19, 2024.
+
+^ "MAM2001 Essay". ww2.amstat.org. Archived from the original on May 19, 2024. Retrieved May 19, 2024.
+
+^ Hill, Mullica (September 7, 2022). "HOW MATH IS USED IN WEATHER FORECASTING". mathnasium.com. Archived from the original on May 19, 2024. Retrieved May 19, 2024.
+
+^ "Using Mathematical Models to Investigate Planetary Habitability" (PDF). NASA. Archived (PDF) from the original on May 19, 2024. Retrieved May 19, 2024.
+
+^ Edling, Christofer R. (2002). "Mathematics in Sociology". Annual Review of Sociology. 28 (1): 197–220. doi:10.1146/annurev.soc.28.110601.140942. ISSN 0360-0572. Archived from the original on November 15, 2021. Retrieved September 30, 2023.
+
+^ Batchelder, William H. (January 1, 2015). "Mathematical Psychology: History". In Wright, James D. (ed.). International Encyclopedia of the Social & Behavioral Sciences (Second Edition). Oxford: Elsevier. pp. 808–815. ISBN 978-0-08-097087-5. Archived from the original on February 17, 2023. Retrieved September 30, 2023.
+
+^ a b Zak, Paul J. (2010). Moral Markets: The Critical Role of Values in the Economy. Princeton University Press. p. 158. ISBN 978-1-4008-3736-6. Retrieved January 3, 2023.
+
+^ Levin, Jonathan; Milgrom, Paul (September 2004). Introduction to Choice Theory (PDF).
+
+^ Kremer, Michael; Rao, Gautam; Schilbach, Frank (2019). "Chapter 5 Behavioral development economics". Handbook of Behavioral Economics: Applications and Foundations (PDF). Vol. 2. Archived (PDF) from the original on June 2, 2024. Retrieved June 2, 2024.
+
+^ "Mathematics". mdpi.com.
+
+^ "Kondratiev, Nikolai Dmitrievich | Encyclopedia.com". www.encyclopedia.com. Archived from the original on July 1, 2016. Retrieved December 29, 2022.
+
+^ "Mathématique de l'histoire-géometrie et cinématique. Lois de Brück. Chronologie géodésique de la Bible., by Charles LAGRANGE et al. | The Online Books Page". onlinebooks.library.upenn.edu. Archived from the original on January 3, 2024. Retrieved January 3, 2024.
+
+^ "Cliodynamics: a science for predicting the future". ZDNet. Archived from the original on December 29, 2022. Retrieved December 29, 2022.
+
+^ Sokal, Alan; Jean Bricmont (1998). Fashionable Nonsense. New York: Picador. ISBN 978-0-312-19545-8. OCLC 39605994.
+
+^ "Biden's Misleading Unemployment Statistic – FactCheck.org". January 27, 2023. Archived from the original on June 2, 2024. Retrieved June 2, 2024.
+
+^ "Modern Macroeconomic Models as Tools for Economic Policy | Federal Reserve Bank of Minneapolis". minneapolisfed.org. Archived from the original on August 3, 2024. Retrieved June 2, 2024.
+
+^ Balaguer, Mark (2016). "Platonism in Metaphysics". In Zalta, Edward N. (ed.). The Stanford Encyclopedia of Philosophy (Spring 2016 ed.). Metaphysics Research Lab, Stanford University. Archived from the original on January 30, 2022. Retrieved April 2, 2022.
+
+^ See White, L. (1947). "The locus of mathematical reality: An anthropological footnote". Philosophy of Science. 14 (4): 289–303. doi:10.1086/286957. S2CID 119887253. 189303; also in Newman, J. R. (1956). The World of Mathematics. Vol. 4. New York: Simon and Schuster. pp. 2348–2364.
+
+^ Dorato, Mauro (2005). "Why are laws mathematical?" (PDF). The Software of the Universe, An Introduction to the History and Philosophy of Laws of Nature. Ashgate. pp. 31–66. ISBN 978-0-7546-3994-7. Archived (PDF) from the original on August 17, 2023. Retrieved December 5, 2022.
+
+^ Mura, Roberta (December 1993). "Images of Mathematics Held by University Teachers of Mathematical Sciences". Educational Studies in Mathematics. 25 (4): 375–85. doi:10.1007/BF01273907. JSTOR 3482762. S2CID 122351146.
+
+^ Tobies, Renate; Neunzert, Helmut (2012). Iris Runge: A Life at the Crossroads of Mathematics, Science, and Industry. Springer. p. 9. ISBN 978-3-0348-0229-1. Retrieved June 20, 2015. [I]t is first necessary to ask what is meant by mathematics in general. Illustrious scholars have debated this matter until they were blue in the face, and yet no consensus has been reached about whether mathematics is a natural science, a branch of the humanities, or an art form.
+
+^ Ziegler, Günter M.; Loos, Andreas (November 2, 2017). Kaiser, G. (ed.). "What is Mathematics?" and why we should ask, where one should experience and learn that, and how to teach it. Proceedings of the 13th International Congress on Mathematical Education. ICME-13 Monographs. Springer. pp. 63–77. doi:10.1007/978-3-319-62597-3_5. ISBN 978-3-319-62596-6. (Sections "What is Mathematics?" and "What is Mathematics, Really?")
+
+^ Mura 1993, pp. 379, 381.
+
+^ Brown & Porter 1995, p. 326.
+
+^ Strauss, Danie (2011). "Defining mathematics". Acta Academica. 43 (4): 1–28. Retrieved November 25, 2022.
+
+^ Franklin, James (2009). Philosophy of Mathematics. Elsevier. pp. 104–106. ISBN 978-0-08-093058-9. Retrieved June 20, 2015.
+
+^ Cajori, Florian (1893). A History of Mathematics. American Mathematical Society (1991 reprint). pp. 285–286. ISBN 978-0-8218-2102-2. Retrieved June 20, 2015. {{cite book}}: ISBN / Date incompatibility (help)
+
+^ Devlin 2018, p. 3.
+
+^ Saunders Maclane (1986). Mathematics, form and function. Springer., page 409
+
+^ Brown, Ronald; Porter, Timothy (1995). "The Methodology of Mathematics". The Mathematical Gazette. 79 (485): 321–334. doi:10.2307/3618304. JSTOR 3618304. S2CID 178923299. Archived from the original on March 23, 2023. Retrieved November 25, 2022.
+
+^ Hamami, Yacin (June 2022). "Mathematical Rigor and Proof" (PDF). The Review of Symbolic Logic. 15 (2): 409–449. doi:10.1017/S1755020319000443. S2CID 209980693. Archived (PDF) from the original on December 5, 2022. Retrieved November 21, 2022.
+
+^ Peterson 1988, p. 4: "A few complain that the computer program can't be verified properly." (in reference to the Haken–Appel proof of the Four Color Theorem)
+
+^ Perminov, V. Ya. (1988). "On the Reliability of Mathematical Proofs". Philosophy of Mathematics. 42 (167 (4)). Revue Internationale de Philosophie: 500–508.
+
+^ Davis, Jon D.; McDuffie, Amy Roth; Drake, Corey; Seiwell, Amanda L. (2019). "Teachers' perceptions of the official curriculum: Problem solving and rigor". International Journal of Educational Research. 93: 91–100. doi:10.1016/j.ijer.2018.10.002. S2CID 149753721.
+
+^ Endsley, Kezia (2021). Mathematicians and Statisticians: A Practical Career Guide. Practical Career Guides. Rowman & Littlefield. pp. 1–3. ISBN 978-1-5381-4517-3. Retrieved November 29, 2022.
+
+^ Robson, Eleanor (2009). "Mathematics education in an Old Babylonian scribal school". In Robson, Eleanor; Stedall, Jacqueline (eds.). The Oxford Handbook of the History of Mathematics. OUP Oxford. ISBN 978-0-19-921312-2. Retrieved November 24, 2022.
+
+^ Bernard, Alain; Proust, Christine; Ross, Micah (2014). "Mathematics Education in Antiquity". In Karp, A.; Schubring, G. (eds.). Handbook on the History of Mathematics Education. New York: Springer. pp. 27–53. doi:10.1007/978-1-4614-9155-2_3. ISBN 978-1-4614-9154-5.
+
+^ Dudley, Underwood (April 2002). "The World's First Mathematics Textbook". Math Horizons. 9 (4). Taylor & Francis, Ltd.: 8–11. doi:10.1080/10724117.2002.11975154. JSTOR 25678363. S2CID 126067145.
+
+^ Subramarian, F. Indian pedagogy and problem solving in ancient Thamizhakam (PDF). History and Pedagogy of Mathematics conference, July 16–20, 2012. Archived (PDF) from the original on November 28, 2022. Retrieved November 29, 2022.
+
+^ Siu, Man Keung (2004). "Official Curriculum in Mathematics in Ancient China: How did Candidates Study for the Examination?". How Chinese Learn Mathematics (PDF). Series on Mathematics Education. Vol. 1. pp. 157–185. doi:10.1142/9789812562241_0006. ISBN 978-981-256-014-8. Retrieved November 26, 2022.
+
+^ Jones, Phillip S. (1967). "The History of Mathematical Education". The American Mathematical Monthly. 74 (1). Taylor & Francis, Ltd.: 38–55. doi:10.2307/2314867. JSTOR 2314867.
+
+^ Schubring, Gert; Furinghetti, Fulvia; Siu, Man Keung (August 2012). "Introduction: the history of mathematics teaching. Indicators for modernization processes in societies". ZDM Mathematics Education. 44 (4): 457–459. doi:10.1007/s11858-012-0445-7. S2CID 145507519.
+
+^ von Davier, Matthias; Foy, Pierre; Martin, Michael O.; Mullis, Ina V.S. (2020). "Examining eTIMSS Country Differences Between eTIMSS Data and Bridge Data: A Look at Country-Level Mode of Administration Effects". TIMSS 2019 International Results in Mathematics and Science (PDF). TIMSS & PIRLS International Study Center, Lynch School of Education and Human Development and International Association for the Evaluation of Educational Achievement. p. 13.1. ISBN 978-1-889938-54-7. Archived (PDF) from the original on November 29, 2022. Retrieved November 29, 2022.
+
+^ Rowan-Kenyon, Heather T.; Swan, Amy K.; Creager, Marie F. (March 2012). "Social Cognitive Factors, Support, and Engagement: Early Adolescents' Math Interests as Precursors to Choice of Career" (PDF). The Career Development Quarterly. 60 (1): 2–15. doi:10.1002/j.2161-0045.2012.00001.x. Archived (PDF) from the original on November 22, 2023. Retrieved November 29, 2022.
+
+^ Luttenberger, Silke; Wimmer, Sigrid; Paechter, Manuela (2018). "Spotlight on math anxiety". Psychology Research and Behavior Management. 11: 311–322. doi:10.2147/PRBM.S141421. PMC 6087017. PMID 30123014.
+
+^ Yaftian, Narges (June 2, 2015). "The Outlook of the Mathematicians' Creative Processes". Procedia – Social and Behavioral Sciences. 191: 2519–2525. doi:10.1016/j.sbspro.2015.04.617.
+
+^ Nadjafikhah, Mehdi; Yaftian, Narges (October 10, 2013). "The Frontage of Creativity and Mathematical Creativity". Procedia – Social and Behavioral Sciences. 90: 344–350. doi:10.1016/j.sbspro.2013.07.101.
+
+^ van der Poorten, A. (1979). "A proof that Euler missed... Apéry's Proof of the irrationality of ζ(3)" (PDF). The Mathematical Intelligencer. 1 (4): 195–203. doi:10.1007/BF03028234. S2CID 121589323. Archived (PDF) from the original on September 6, 2015. Retrieved November 22, 2022.
+
+^ Petkovi, Miodrag (September 2, 2009). Famous Puzzles of Great Mathematicians. American Mathematical Society. pp. xiii–xiv. ISBN 978-0-8218-4814-2. Retrieved November 25, 2022.
+
+^ Hardy, G. H. (1940). A Mathematician's Apology. Cambridge University Press. ISBN 978-0-521-42706-7. Retrieved November 22, 2022. {{cite book}}: ISBN / Date incompatibility (help) See also A Mathematician's Apology.
+
+^ Alon, Noga; Goldston, Dan; Sárközy, András; Szabados, József; Tenenbaum, Gérald; Garcia, Stephan Ramon; Shoemaker, Amy L. (March 2015). Alladi, Krishnaswami; Krantz, Steven G. (eds.). "Reflections on Paul Erdős on His Birth Centenary, Part II". Notices of the American Mathematical Society. 62 (3): 226–247. doi:10.1090/noti1223.
+
+^ See, for example Bertrand Russell's statement "Mathematics, rightly viewed, possesses not only truth, but supreme beauty ..." in his History of Western Philosophy. 1919. p. 60.
+
+^ Cazden, Norman (October 1959). "Musical intervals and simple number ratios". Journal of Research in Music Education. 7 (2): 197–220. doi:10.1177/002242945900700205. JSTOR 3344215. S2CID 220636812.
+
+^ Budden, F. J. (October 1967). "Modern mathematics and music". The Mathematical Gazette. 51 (377). Cambridge University Press ({CUP}): 204–215. doi:10.2307/3613237. JSTOR 3613237. S2CID 126119711.
+
+^ Enquist, Magnus; Arak, Anthony (November 1994). "Symmetry, beauty and evolution". Nature. 372 (6502): 169–172. Bibcode:1994Natur.372..169E. doi:10.1038/372169a0. ISSN 1476-4687. PMID 7969448. S2CID 4310147. Archived from the original on December 28, 2022. Retrieved December 29, 2022.
+
+^ Hestenes, David (1999). "Symmetry Groups" (PDF).
+
+^ Bender, Sara (September 2020). "The Rorschach Test". In Carducci, Bernardo J.; Nave, Christopher S.; Mio, Jeffrey S.; Riggio, Ronald E. (eds.). The Wiley Encyclopedia of Personality and Individual Differences: Measurement and Assessment. Wiley. pp. 367–376. doi:10.1002/9781119547167.ch131. ISBN 978-1-119-05751-2.
+
+^ Weyl, Hermann (2015). Symmetry. Princeton Science Library. Vol. 47. Princeton University Press. p. 4. ISBN 978-1-4008-7434-7.
+
+^ "Lecture 8: Translation Symmetry | Physics III: Vibrations and Waves | Physics". MIT OpenCourseWare.
+
+^ Bradley, Larry (2010). "Fractals – Chaos & Fractals". stsci.edu. Archived from the original on March 7, 2023. Retrieved December 29, 2022.
+
+^ "Self-similarity". math.bu.edu. Archived from the original on March 2, 2023. Retrieved December 29, 2022.
+
+^ Kissane, Barry (July 2009). Popular mathematics. 22nd Biennial Conference of The Australian Association of Mathematics Teachers. Fremantle, Western Australia: Australian Association of Mathematics Teachers. pp. 125–126. Archived from the original on March 7, 2023. Retrieved December 29, 2022.
+
+^ Steen, L. A. (2012). Mathematics Today Twelve Informal Essays. Springer Science & Business Media. p. 2. ISBN 978-1-4613-9435-8. Retrieved January 3, 2023.
+
+^ Pitici, Mircea (2017). The Best Writing on Mathematics 2016. Princeton University Press. ISBN 978-1-4008-8560-2. Retrieved January 3, 2023.
+
+^ Monastyrsky 2001, p. 1: "The Fields Medal is now indisputably the best known and most influential award in mathematics."
+
+^ Riehm 2002, pp. 778–782.
+
+^ "Fields Medal | International Mathematical Union (IMU)". www.mathunion.org. Archived from the original on December 26, 2018. Retrieved February 21, 2022.
+
+^ a b "Fields Medal". Maths History. Archived from the original on March 22, 2019. Retrieved February 21, 2022.
+
+^ "Honours/Prizes Index". MacTutor History of Mathematics Archive. Archived from the original on December 17, 2021. Retrieved February 20, 2023.
+
+^ "About the Abel Prize". The Abel Prize. Archived from the original on April 14, 2022. Retrieved January 23, 2022.
+
+^ "Abel Prize | mathematics award". Encyclopedia Britannica. Archived from the original on January 26, 2020. Retrieved January 23, 2022.
+
+^ "Chern Medal Award" (PDF). mathunion.org. June 1, 2009. Archived (PDF) from the original on June 17, 2009. Retrieved February 21, 2022.
+
+^ "Chern Medal Award". International Mathematical Union (IMU). Archived from the original on August 25, 2010. Retrieved January 23, 2022.
+
+^ "The Leroy P Steele Prize of the AMS". School of Mathematics and Statistics, University of St Andrews, Scotland. Archived from the original on November 17, 2022. Retrieved November 17, 2022.
+
+^ Chern, S. S.; Hirzebruch, F. (September 2000). Wolf Prize in Mathematics. doi:10.1142/4149. ISBN 978-981-02-3945-9. Archived from the original on February 21, 2022. Retrieved February 21, 2022.
+
+^ "The Wolf Prize". Wolf Foundation. Archived from the original on January 12, 2020. Retrieved January 23, 2022.
+
+^ a b "Hilbert's Problems: 23 and Math". Simons Foundation. May 6, 2020. Archived from the original on January 23, 2022. Retrieved January 23, 2022.
+
+^ Feferman, Solomon (1998). "Deciding the undecidable: Wrestling with Hilbert's problems" (PDF). In the Light of Logic. Logic and Computation in Philosophy series. Oxford University Press. pp. 3–27. ISBN 978-0-19-508030-8. Retrieved November 29, 2022.
+
+^ "The Millennium Prize Problems". Clay Mathematics Institute. Archived from the original on July 3, 2015. Retrieved January 23, 2022.
+
+^ "Millennium Problems". Clay Mathematics Institute. Archived from the original on December 20, 2018. Retrieved January 23, 2022.
+
