@@ -1,0 +1,5 @@
+level,date,time,message
+INFO,2024-03-12,09:45:33,User login successful
+WARN,2024-03-12,09:47:10,Multiple failed attempts from IP 10.0.0.12
+ERROR,2024-03-12,09:49:55,Transaction TXN-992134 failed
+INFO,2024-03-13,21:07:01,Ticket CS-45821 resolved
